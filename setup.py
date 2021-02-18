@@ -11,7 +11,7 @@ except:
 DEPENDENCIES = ['setuptools']
 
 # get the version without an import
-VERSION = "Undefined"
+VERSION = "0.6.8"
 DOC = ""
 inside_doc = False
 for line in open('vcf/__init__.py'):
